@@ -78,6 +78,16 @@
       <property role="TrG5h" value="attributeThree" />
       <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
+    <node concept="1TJgyi" id="1GOBdvOSfPA" role="1TKVEl">
+      <property role="IQ2nx" value="1960364189153295718" />
+      <property role="TrG5h" value="booleanAttribute" />
+      <ref role="AX2Wp" to="tpck:fKAQMTB" resolve="boolean" />
+    </node>
+    <node concept="1TJgyi" id="1GOBdvOSgac" role="1TKVEl">
+      <property role="IQ2nx" value="1960364189153297036" />
+      <property role="TrG5h" value="intAttribute" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
   </node>
 </model>
 

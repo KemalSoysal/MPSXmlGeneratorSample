@@ -11,6 +11,8 @@
         <property id="7218753671822390124" name="attributeTwo" index="2IaL_r" />
         <property id="7218753671822390179" name="attributeThree" index="2IaLAk" />
         <property id="7218753671822389524" name="attributeOne" index="2IaLGz" />
+        <property id="1960364189153295718" name="booleanAttribute" index="3JP66L" />
+        <property id="1960364189153297036" name="intAttribute" index="3JPpTr" />
       </concept>
       <concept id="7218753671822282341" name="SampleLanguage.structure.A" flags="ng" index="2Ibqhi">
         <child id="7218753671822391587" name="b" index="2IaLck" />
@@ -29,12 +31,15 @@
       <property role="2IaLGz" value="child1AttributeOne" />
       <property role="2IaL_r" value="child1AttributeTwo" />
       <property role="2IaLAk" value="child1AttributeThree" />
+      <property role="3JPpTr" value="1" />
     </node>
     <node concept="2IaKkk" id="6gIazva1Gze" role="2IaLck">
       <property role="TrG5h" value="child2" />
       <property role="2IaLGz" value="child2AttributeOne" />
       <property role="2IaL_r" value="child2AttributeTwo" />
       <property role="2IaLAk" value="child2AttributeThree" />
+      <property role="3JP66L" value="true" />
+      <property role="3JPpTr" value="2" />
     </node>
   </node>
 </model>
